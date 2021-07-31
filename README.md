@@ -13,7 +13,7 @@ Interested in Data Science, Machine Learning, Deep Learning, all things python, 
 
 <a href="https://velog.io/@tomtom1103"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
-<a href="https://soundcloud.com/thirdtomcat"><img src="https://img.shields.io/badge/SoundCloud-#FF3300?style=flat-square&logo=soundcloud&logoColor=white"/></a>
+<a href="https://soundcloud.com/thirdtomcat"><img src="https://img.shields.io/badge/SoundCloud-IDBF73?style=flat-square&logo=soundcloud&logoColor=white"/></a>
 
 
 
