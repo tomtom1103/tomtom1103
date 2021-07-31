@@ -10,4 +10,4 @@ Currently an Undergrad. in Korea University, Industrial Management Engineering
 
 Interested in Data Science, Machine Learning, Deep Learning, all things python, and figuring my life out
 
-[![](https://github-readme-stats.vercel.app/api?username=tomtom1103&count_private=true&show_icons=true&theme=synthwave)]
+![](https://github-readme-stats.vercel.app/api?username=tomtom1103&count_private=true&show_icons=true&theme=synthwave)
