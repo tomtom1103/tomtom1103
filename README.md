@@ -3,9 +3,10 @@
 ## About Me
 
 ### Thomas Lee (Jong Hyun Lee)
+
 24, Still doesn't know what's going on
 
-Born in Seoul, South Korea🇰🇷 but raised all over
+Seoul, South Korea🇰🇷
 
 Currently an Undergrad. in Korea University, Industrial Management Engineering
 
