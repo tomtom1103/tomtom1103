@@ -12,6 +12,11 @@ Currently an Undergrad. in Korea University, Industrial Management Engineering
 
 Interested in Data Science, Machine Learning, Deep Learning, all things python, Music, and figuring my life out
 
+Contact me at:
+![]tomtom1103@korea.ac.kr
+or
+![]jonghyunlee1103@gmail.com
+
 <a href="https://velog.io/@tomtom1103"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 <a href="https://soundcloud.com/thirdtomcat"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white"/></a>
