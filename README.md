@@ -4,7 +4,7 @@
 
 ### Thomas Lee (Jong Hyun Lee)
 
-24, Still doesn't know what's going on
+25, Still doesn't know what's going on
 
 Seoul, South Korea🇰🇷
 
