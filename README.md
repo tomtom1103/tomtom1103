@@ -17,9 +17,9 @@ tomtom1103@korea.ac.kr
 or
 jonghyunlee1103@gmail.com
 
-<a href="https://soundcloud.com/thirdtomcat"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white"/></a>
+<a href="https://soundcloud.com/thirdtomcat" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat-square&logo=soundcloud&logoColor=white"/></a>
 
-<a href="https://tomtom1103.github.io/categories/"><img src="https://img.shields.io/badge/The Life and Times of Thomas Lee-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://tomtom1103.github.io/categories/" target="_blank"><img src="https://img.shields.io/badge/The Life and Times of Thomas Lee-161B22?style=flat-square&logo=github&logoColor=white"/></a>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=tomtom1103&count_private=true&show_icons=true&theme=synthwave)
