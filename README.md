@@ -17,7 +17,7 @@ tomtom1103@korea.ac.kr
 or
 jonghyunlee1103@gmail.com
 
-<a href="https://www.linkedin.com/in/jong-hyun-lee-9b7754222/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-161B22?style=flat-square&logo=Linkedin&logoColor=#0A66C2"/></a>
+<a href="https://www.linkedin.com/in/jong-hyun-lee-9b7754222/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-161B22?style=flat-square&logo=Linkedin&logoColor=0A66C2"/></a>
 
 <a href="https://soundcloud.com/thirdtomcat" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-161B22?style=flat-square&logo=soundcloud&logoColor=#FF3300"/></a>
 
