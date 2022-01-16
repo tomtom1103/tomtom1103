@@ -21,5 +21,8 @@ jonghyunlee1103@gmail.com
 
 <a href="https://tomtom1103.github.io/categories/" target="_blank"><img src="https://img.shields.io/badge/The Life and Times of Thomas Lee-161B22?style=flat-square&logo=github&logoColor=white"/></a>
 
+<a href="https://share.streamlit.io/tomtom1103/kuiai_hackathon_2022/main/JL_app.py" target="_blank"><img src="https://img.shields.io/badge/Journey Lee-161B22?style=flat-square&logo=streamlit&logoColor=FF4B4B"/></a>
+
+
 
 ![](https://github-readme-stats.vercel.app/api?username=tomtom1103&count_private=true&show_icons=true&theme=synthwave)
