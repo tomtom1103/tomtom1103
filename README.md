@@ -10,7 +10,7 @@ Seoul, South Korea🇰🇷
 
 Currently an Undergrad. in Korea University, Industrial Management Engineering
 
-Interested in Data Science, Deep Learning, all things python, Music, and figuring my life out
+Interested in Data Science, Deep Learning, all things coding, music, and figuring my life out
 
 Contact me at:
 tomtom1103@korea.ac.kr
