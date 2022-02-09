@@ -14,8 +14,6 @@ Interested in Data Science, Deep Learning, all things coding, music, and figurin
 
 Contact me at:
 tomtom1103@korea.ac.kr
-or
-jonghyunlee1103@gmail.com
 
 Profiles
 
