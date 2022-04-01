@@ -1,7 +1,5 @@
 # Hi there 👋👀
 
-## About Me
-
 ### Thomas Lee (Jong Hyun Lee)
 
 25, Still doesn't know what's going on
