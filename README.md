@@ -15,7 +15,7 @@ tomtom1103@korea.ac.kr
 
 Profiles
 
-<a href="https://www.linkedin.com/in/jong-hyun-lee-9b7754222/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-161B22?style=for-the-badge&logo=Linkedin&logoColor=0A66C2"/></a> <a href="https://soundcloud.com/thirdtomcat" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-161B22?style=for-the-badge&logo=soundcloud&logoColor=#FF3300"/></a>
+<a href="https://www.linkedin.com/in/jong-hyun-lee-9b7754222/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-161B22?style=for-the-badge&logo=Linkedin&logoColor=0A66C2"/></a> <a href="https://soundcloud.com/thirdtomcat" target="_blank"><img src="https://img.shields.io/badge/SoundCloud-161B22?style=for-the-badge&logo=soundcloud&logoColor=#FF3300"/></a> <a href="https://vibe.naver.com/artist/4057878" target="_blank"><img src="https://img.shields.io/badge/Naver Vibe-161B22?style=for-the-badge&logo=naver&logoColor=#03C75A"/></a>
 
 Stuff I made.
 
