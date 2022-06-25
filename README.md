@@ -6,7 +6,7 @@
 
 Seoul, South Korea🇰🇷
 
-Currently an Undergrad. in Korea University, Industrial Management Engineering
+Currently a Graduate Student in Korea University, Industrial Management Engineering
 
 Interested in Data Science, Deep Learning, all things coding, music, and figuring my life out
 
