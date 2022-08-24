@@ -10,8 +10,6 @@ Currently a Graduate Student in Korea University, Industrial Management Engineer
 
 Interested in Data Science, Deep Learning, all things coding, music, and figuring my life out
 
-Contact me at:
-tomtom1103@korea.ac.kr
 
 Profiles
 
