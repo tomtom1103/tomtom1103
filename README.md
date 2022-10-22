@@ -8,7 +8,7 @@ Seoul, South Korea🇰🇷
 
 Currently a Graduate Student in Korea University, Industrial Management Engineering
 
-Interested in Data Science, Deep Learning, all things coding, music, and figuring my life out
+Interested in generative models, all things coding, music, and figuring my life out
 
 ![Doing my part](https://github.com/tomtom1103/The_Helvetica_Scenario/blob/main/images/purpose.png)
 
