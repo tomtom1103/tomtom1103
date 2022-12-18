@@ -6,9 +6,9 @@
 
 Seoul, South Korea🇰🇷
 
-Currently a Graduate Student in Korea University, Industrial Management Engineering
+Currently a Grad. Student in Korea University, Industrial Management Engineering
 
-Interested in generative models, all things coding, music, and figuring my life out
+Interested in generative models, inverse problems, all things coding, music, and figuring my life out
 
 ![Doing my part](https://github.com/tomtom1103/The_Helvetica_Scenario/blob/main/images/purpose.png)
 
@@ -24,6 +24,6 @@ Stuff I made.
 --->
 
 
-
+<!---
 ![](https://github-readme-stats.vercel.app/api?username=tomtom1103&count_private=true&show_icons=true&theme=synthwave)
-
+--->
