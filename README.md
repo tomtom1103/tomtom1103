@@ -1,12 +1,8 @@
 # 👋👀
 
-### Thomas Lee (Jong Hyun Lee)
-
-25, Still doesn't know what's going on
+### Thomas Lee
 
 Seoul, South Korea🇰🇷
-
-Currently a Grad. Student in Korea University, Industrial Management Engineering
 
 Interested in generative models, inverse problems, all things coding, music, and figuring my life out
 
