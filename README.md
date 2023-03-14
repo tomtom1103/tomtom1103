@@ -4,7 +4,7 @@
 
 Seoul, South Korea🇰🇷
 
-Interested in generative models, inverse problems, all things coding, music, and figuring my life out
+Interested in generative models, all things coding, music, and figuring my life out
 
 ![Doing my part](https://github.com/tomtom1103/The_Helvetica_Scenario/blob/main/images/purpose.png)
 
