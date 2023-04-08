@@ -8,8 +8,9 @@ Interested in generative models, all things coding, music, and figuring my life 
 
 ![Doing my part](https://github.com/tomtom1103/The_Helvetica_Scenario/blob/main/images/purpose.png)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/tomtom1103?theme=nord)
-
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/tomtom1103?theme=nord)
+ -->
+ 
 <!---
 Profiles
 
