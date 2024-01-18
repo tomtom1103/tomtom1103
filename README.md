@@ -10,12 +10,12 @@ Interested in generative models, all things coding, music, and figuring my life 
 
 My works:
 
-[ICLR 2024] Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis
+[ICLR 2024] **Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis**
 
-[Paper](https://arxiv.org/abs/2401.09048)[Code](https://github.com/tomtom1103/compose-and-conquer/)
+[Paper](https://arxiv.org/abs/2401.09048) [Code](https://github.com/tomtom1103/compose-and-conquer/)
 
 
-[ICLR 2024] Noise Map Guidance: Inversion with Spatial Context for Real Image Editing
+[ICLR 2024] **Noise Map Guidance: Inversion with Spatial Context for Real Image Editing**
 
 [Paper](https://openreview.net/forum?id=mhgm0IXtHw) Code coming soon!
 
