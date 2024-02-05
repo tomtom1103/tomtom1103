@@ -12,14 +12,14 @@ My works:
 
 [ICLR 2024] **Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis**
 
-Jonghyun Lee^*, Hansam Cho, Youngjoon Yoo, Seoung Bum Kim, Yonghyun Jeong
+Jonghyun Lee*, Hansam Cho, Youngjoon Yoo, Seoung Bum Kim, Yonghyun Jeong
 
 [Paper](https://arxiv.org/abs/2401.09048) [Code](https://github.com/tomtom1103/compose-and-conquer/)
 
 
 [ICLR 2024] **Noise Map Guidance: Inversion with Spatial Context for Real Image Editing**
 
-Hansam Cho^*, Jonghyun Lee, Seoung Bum Kim, Tae-Hyun Oh, Yonghyun Jeong
+Hansam Cho*, Jonghyun Lee, Seoung Bum Kim, Tae-Hyun Oh, Yonghyun Jeong
 
 [Paper](https://openreview.net/forum?id=mhgm0IXtHw) Code coming soon!
 
