@@ -21,7 +21,7 @@ My works:
 
 Hansam Cho*, **Jonghyun Lee**, Seoung Bum Kim, Tae-Hyun Oh, Yonghyun Jeong
 
-[Paper](https://openreview.net/forum?id=mhgm0IXtHw) [Code](https://github.com/hansam95/NMG) (ArXiV coming soon!)
+[Paper](https://arxiv.org/abs/2402.04625) [Code](https://github.com/hansam95/NMG)
 
 
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/tomtom1103?theme=nord)
