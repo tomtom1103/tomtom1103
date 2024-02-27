@@ -23,6 +23,13 @@ Hansam Cho*, **Jonghyun Lee**, Seoung Bum Kim, Tae-Hyun Oh, Yonghyun Jeong
 
 [Paper](https://arxiv.org/abs/2402.04625) [Code](https://github.com/hansam95/NMG)
 
+**[CVPR 2024]** **One-Shot Structure-Aware Stylized Image Synthesis**
+
+Hansam Cho*, **Jonghyun Lee**, Seunggyu Chang, Yonghyun Jeong
+
+[Paper coming soon!]()
+
+
 
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/tomtom1103?theme=nord)
  -->
