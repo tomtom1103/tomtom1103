@@ -4,7 +4,7 @@
 
 Seoul, South Korea
 
-Interested in CV, generative models, computers, music, and figuring my life out
+Interested in vision models, generative models, computers, music, and figuring my life out
 
 ![Doing my part](https://github.com/tomtom1103/The_Helvetica_Scenario/blob/main/images/purpose.png)
 
